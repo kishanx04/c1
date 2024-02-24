@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: mdaliashrafi56/Secondapp
+        image: mdaliashrafi56/secondapp
         ports:
         - containerPort: 80

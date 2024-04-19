@@ -31,3 +31,8 @@ window.onload=()=>{
     }
 };
 
+function showAlert(event) {
+    event.preventDefault(); 
+    alert("Thansk for Contacting us!");
+    
+}

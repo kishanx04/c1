@@ -131,7 +131,10 @@ section {
   font-size: 15px;
   font-weight: 500;
 }
-
+.btn1:hover{
+  background-color: green;
+  color: white;
+}
 i {
   color: green;
 }
@@ -182,6 +185,9 @@ i {
 
 .search-form.active {
   transform: translateY(0%);
+}
+.search-btn:hover{
+  color: green;
 }
 
 #close-search {
